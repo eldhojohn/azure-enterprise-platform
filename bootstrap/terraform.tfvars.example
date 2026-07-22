@@ -1,0 +1,17 @@
+organisation = "QPS"
+
+project = "Azure Enterprise Platform"
+
+environment = "prod"
+
+location = "Australia East"
+
+region_code = "aue"
+
+instance = "001"
+
+owner = "QPS"
+
+cost_centre = "ICT"
+
+business_unit = "Enterprise Platforms"
