@@ -79,3 +79,6 @@ Desktop.ini
 
 terraform.tfvars
 backend.hcl
+
+*.tfvars
+!*.tfvars.example
