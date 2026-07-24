@@ -75,3 +75,7 @@ output "key_vault_private_dns_zone_id" {
   value       = module.private_dns_zones["key_vault"].id
 }
 
+output "hub_resource_group_name" {
+  description = "Name of the resource group containing the hub virtual network."
+  value       = azurerm_resource_group.connectivity.name
+}
